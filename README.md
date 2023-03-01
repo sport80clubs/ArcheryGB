@@ -1,2 +1,2 @@
 # ArcheryGB
-Open Active
+Issues relating to open data from Archery GB
